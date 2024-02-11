@@ -1,0 +1,13 @@
+restApi\GetRequest.class
+restApi\PostRequestWithJSONFile.class
+restApi\PostRequest.class
+restApi\HashMapPost.class
+apiXML\XMLTest.class
+restAPIBDD\Operation.class
+gitHub\DeleteRepo.class
+restApi\PutRequest.class
+gitHub\CreateRepo.class
+restApi\DeleteRequest.class
+restAPIBDD\RestApiTest.class
+gitHub\GetAllRepo.class
+restApi\GetRequestWithParameter.class
